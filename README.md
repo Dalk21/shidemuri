@@ -14,4 +14,5 @@
 - https://the-weather.xyz
 - https://download-yt.xyz
 - https://filehost.shop
-- https://jizzcord.xyz
+- https://jizzcord.shop
+- https://daero.shop
