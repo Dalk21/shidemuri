@@ -3,7 +3,7 @@
 + ~~disaster~~ former coffeeware dev
 + i do stuff in node.js sometimes
 + i do silly stuff with webpack applications sometimes
-+ i used to make a lot of roblox exploit scripts
++ i used to make a few roblox exploit scripts
 + i know the guy behind the roblox prison life toggleSiren leak (which caused the early 2022 map deletion disaster)
 
 
