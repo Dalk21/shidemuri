@@ -8,11 +8,18 @@
 
 
 ## domains owned by me and [@Dalk21](https://github.com/Dalk21)
-- https://paderos-neko.store (im too lazy to make a good readme here)
+- https://paderos-neko.store (im too lazy to make a good readme here) (use: my main website)
+- https://paderos-neko.shop (use: my main website other domain)
 - https://paderos.shop (unused rn)
-- https://dalks.shop
-- https://the-weather.xyz
-- https://download-yt.xyz
-- https://filehost.shop
-- https://jizzcord.shop
-- https://daero.shop
+- https://dalks.shop (use: dalks main website)
+- https://the-weather.xyz (use: dalk weather website)
+- https://download-yt.xyz (use: dalk download yt website)
+- https://filehost.shop (use: alternative to host.paderos-neko.store and link shortener)
+- https://jizzcord.shop (use: alternative url to daero.shop)
+- https://daero.shop (use: dalk & padero chat app)
+- https://petsim.xyz (use: dalk pet simulator website)
+- https://psxsecrets.xyz (use: dalk pet simulator website alternative url)
+- https://dalks.xyz (use: dalks main website alternative url)
+- https://ridergames.shop (use: dalks roblox dev studio)
+dalk pays for all of these + their hosting
+(dalk is the one who wrote half of the readme)
