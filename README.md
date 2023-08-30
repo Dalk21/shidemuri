@@ -21,5 +21,9 @@
 - https://psxsecrets.xyz (use: dalk pet simulator website alternative url)
 - https://dalks.xyz (use: dalks main website alternative url)
 - https://ridergames.shop (use: dalks roblox dev studio)
-dalk pays for all of these + their hosting
-(dalk is the one who wrote half of the readme)
+- https://dalk.xyz (use: dalks main website alternative url 2)
+- https://dalk.lol (use: dalks main website alternative url 3/dalk side projects)
+- https://padero.cfd (use: padero other domain that dalk bought)
+- https://fairlyshort.link (use: working on url shortener again hopefully)
+dalk pays for all of these + their hosting<br>
+(dalk is the one who wrote half of the readme)<br>
