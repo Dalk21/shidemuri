@@ -7,10 +7,8 @@
 + i know the guy behind the roblox prison life toggleSiren leak (which caused the early 2022 map deletion disaster)
 
 
-## domains owned by me and [@Dalk21](https://github.com/Dalk21)
-- https://paderos-neko.store (im too lazy to make a good readme here) (use: my main website)
-- https://paderos-neko.shop (use: my main website other domain)
-- https://paderos.shop (unused rn)
+## domains owned by me and [@Dalk21](https://github.com/Dalk21) (this is outdated idk how many of them are down)
+- https://grace-feet.pics (i made it like 5 years ago, i have to redo it some time)
 - https://dalks.shop (use: dalks main website)
 - https://the-weather.xyz (use: dalk weather website)
 - https://download-yt.xyz (use: dalk download yt website)
